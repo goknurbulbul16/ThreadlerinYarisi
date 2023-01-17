@@ -17,4 +17,4 @@
 
 
 
-(patika.dev)[https://www.patika.dev/tr]
+[patika.dev](https://www.patika.dev/tr)
